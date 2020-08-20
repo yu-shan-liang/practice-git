@@ -4,7 +4,6 @@
 //              compute the total number of digit one of this input's binary(base 2)
 // Author     : yu-shan-liang
 // Date       : 2019.12.04
-// test
 //---
 
 #include <stdio.h>
